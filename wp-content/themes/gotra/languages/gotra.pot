@@ -1,0 +1,62 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-27 09:15+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: functions.php:86
+msgid "Gotra Effects"
+msgstr ""
+
+#: functions.php:105
+msgid "Blog image noise"
+msgstr ""
+
+#: functions.php:107 functions.php:132 functions.php:157 functions.php:225
+msgid "Enable"
+msgstr ""
+
+#: functions.php:108 functions.php:133 functions.php:158 functions.php:226
+msgid "Disable"
+msgstr ""
+
+#: functions.php:130
+msgid "Site title underline"
+msgstr ""
+
+#: functions.php:155
+msgid "Magic mouse"
+msgstr ""
+
+#: functions.php:180
+msgid "Mouse color"
+msgstr ""
+
+#: functions.php:201
+msgid "Mouse color 2"
+msgstr ""
+
+#: functions.php:223
+msgid "Gotra button"
+msgstr ""
+
+#: functions.php:247
+msgid "Button color 1"
+msgstr ""
+
+#: functions.php:268
+msgid "Button color 2"
+msgstr ""
