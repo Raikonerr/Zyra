@@ -5,11 +5,11 @@
 
 <span> Les etapes d'installation de wordpress</span>
 
-    <p> -1er etape : Telecharger wordpress sur le lien wordpress.org <br>
+     -1er etape : Telecharger wordpress sur le lien wordpress.org <br>
         -2eme etape : l'extraire sur le dossier htdocs qui se trouve dans xampp <br>
         -3eme etape : lancement sur localhost et suivre les etapes d'installaion <br>
         4eme etape : creation d'un compte admin afin que gerer le web <br> 
-        </p>
+       
         
    <h1> Contexte du projet </h1>
 
