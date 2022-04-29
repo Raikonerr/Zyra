@@ -15,4 +15,15 @@
 
 ​
 
-<p>En utilisant le CMS WordPress créer une copie d'un site existant : https://www.coloradosbdc.org/ </p>
+<p>En utilisant le CMS WordPress créer une copie d'un site existant : https://www.coloradosbdc.org/ 
+
+le compte admin : utilisateur : raikoner
+                  mot de passe : raikonerbai1337
+  
+ le compte utilisateur : username : fijador 
+                         mot de passe : fijador
+
+
+</p>
+
+
